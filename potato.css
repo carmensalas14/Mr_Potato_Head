@@ -42,9 +42,10 @@ h1 {
 
 
 /* Insert CSS for nose below this line*/
-
-
-
+#nose_image { 
+  top:166px;
+  left:132px;
+}
 
 /* Insert CSS for eyebrows below this line*/
 
